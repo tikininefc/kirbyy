@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    height: 100vh;
+    background: #000000;
+}
+
+section{
+    background: #FFC0CB;
+    border-radius: 15px;
+    padding: 15px;
+    margin: auto;
+    width: 420px;
+    height: 530px;
+    margin-top: 50px;
+    
+}
+
+div{
+    margin: auto;
+    height: 45px;
+    width: auto;
+
+}
+
+video{
+    text-align: center;
+}
+
+
